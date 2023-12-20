@@ -8,6 +8,7 @@ Hey there, fellow coder! 👋
 - 👨‍💻 I'm [Bossadi Zenith](https://github.com/code-env), your friendly neighborhood developer.
 - 🌟 Passionate about coding, creativity, and coffee!
 - 💡 Always exploring new technologies and pushing boundaries.
+- [![Peerlist](https://github-readme-badge.peerlist.io/api/bossadizenith?style=social)](https://peerlist.io/bossadizenith)
 
 ## My Superpowers
 
