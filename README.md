@@ -5,7 +5,7 @@ Hey there, fellow coder! 👋
 
 ## About Me
 
-- 👨‍💻 I'm [Bossadi Zenith](https://github.com/code-env), your friendly neighborhood developer.
+- 👨‍💻 I'm [Bossadi Zenith](https://github.com/code-env), I love building things that live on the internet.
 - 🌟 Passionate about coding, creativity, and coffee!
 - 💡 Always exploring new technologies and pushing boundaries.
 - [![Peerlist](https://github-readme-badge.peerlist.io/api/bossadizenith?style=social)](https://peerlist.io/bossadizenith)
