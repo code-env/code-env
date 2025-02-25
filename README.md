@@ -1,28 +1,5 @@
-<img src="https://res.cloudinary.com/dt4p3b2un/image/upload/v1694752272/won2paswivjnsrszw01d.png" style="align: center" />
 
 
-Hey there, fellow coder! 👋
-
-## About Me
-
-- 👨‍💻 I'm [Bossadi Zenith](https://github.com/code-env), I love building things that live on the internet.
+- 👨‍💻 I'm [Bossadi Zenith](https:bossadizenith.me), a software engineer from Cameroon building things for the web with a design-first and performance mindset. On the side, I create YouTube videos about Software development.
 - 🌟 Passionate about coding, creativity, and coffee!
-- 💡 Always exploring new technologies and pushing boundaries.
-- [![Peerlist](https://github-readme-badge.peerlist.io/api/bossadizenith?style=social)](https://peerlist.io/bossadizenith)
-
-## My Superpowers
-
-```typescript
-class SuperCoder {
-    private superpowers: string[] = ["Coding", "Debugging", "Creative Problem Solving", "TypeScript Wizardry"];
-
-    showSuperpowers() {
-        this.superpowers.forEach((power) => {
-            console.log(`💪 ${power}`);
-        });
-    }
-}
-
-// Let's showcase our superpowers!
-const coder = new SuperCoder();
-coder.showSuperpowers();
+- 💡 Always exploring new technologies and optimizing my previous bad code
